@@ -66,6 +66,6 @@ The dataset for this project can be found at link given below.
 
 
 ## Conclusion
- In conclusion, this project aimed to predict heart strokes using machine learning models. Among the models developed, the Feedforward Neural Network (fNN) achieved the highest accuracy of 95%. This suggests that the temporal dependencies captured by the fNN architecture are valuable in predicting heart strokes. 
+ In conclusion, this project aimed to predict heart strokes using machine learning models. Among the models developed, the Feedforward Neural Network (fNN) achieved the highest accuracy of 95%. This suggests that the temporal dependencies captured by the FNN architecture are valuable in predicting heart strokes. 
 
 ## Harsh Raj
