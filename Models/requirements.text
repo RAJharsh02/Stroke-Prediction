@@ -5,7 +5,7 @@
 
 ## This text file contains the necessary libraries that are to be included while programming in python for the creation of the models 
 
-- Pands
+- Pandas
 - MatPlotlib
 - seaborn
 - Scikit-learn
